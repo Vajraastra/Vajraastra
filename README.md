@@ -26,6 +26,10 @@ I'm comfortable working across the stack: backend logic, database design, CLI to
 
 **[ai-hub](https://github.com/Vajraastra/ai-hub)** — Self-provisioning launcher for AI image generation tools (ComfyUI, SD Forge, AI Toolkit, FaceFusion, and more). One command bootstraps Python, Node.js, and all per-app environments from scratch.
 
+**[Samsara](https://github.com/Vajraastra/samsara)** — Audio-reactive fractal visualizer. Listens to system audio and uses the overall mood — not individual beats — to drive an evolving landscape of attractors, IFS fractals, Julia sets, and procedural shaders. Smooth morphing transitions, GPU auto-detection.
+
+**[vlcer](https://github.com/Vajraastra/vlcer)** — TUI for opening YouTube videos directly in VLC without downloading. Resolves the stream in real time via yt-dlp and hands it off for frame-precise playback. Self-contained: portable yt-dlp and VLC binaries, zero system dependencies.
+
 ---
 
 ## Available for
