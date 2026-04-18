@@ -41,3 +41,11 @@ If you have a problem that feels too specific for off-the-shelf software and too
 
 *Open to projects of any size. I work directly with clients — no middlemen, no hand-offs.*  
 *Source code for all projects available under [BUSL 1.1](https://mariadb.com/bsl11/) — free for non-commercial use.*
+
+---
+
+## A note on the kind of work I find meaningful
+
+Some of my projects exist because I needed them personally — including tools built around dyslexia, since I have it. That experience shapes how I think about software: I'm drawn to problems that affect groups who are usually an afterthought in product decisions.
+
+If you're working on something for people with disabilities, learning differences, non-English speakers, small communities, or anyone that mainstream software tends to ignore — I'm genuinely interested. Those problems are usually harder to solve well, and that's exactly what makes them worth building.
